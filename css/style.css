@@ -63,7 +63,7 @@ Main Components
 -------------------------------- */
 header {
   height: 190px;
-  background: #ffcd00;
+  background: #ffffff;
 
 }
 
@@ -986,7 +986,7 @@ header {
 }
 
 .cd-main-content {
-  background-color: #e6e6e6;
+  background-color: #666666;
   min-height: calc(100vh - 100px);
   padding: 2em 5%;
   line-height: 2;
